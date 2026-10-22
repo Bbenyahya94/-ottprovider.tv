@@ -1,1 +1,0 @@
-.credit-grid{grid-template-columns:repeat(4,1fr)!important}.credit-grid article{min-width:0}@media(max-width:900px){.credit-grid{grid-template-columns:repeat(2,1fr)!important}}@media(max-width:500px){.credit-grid{grid-template-columns:1fr!important}}
